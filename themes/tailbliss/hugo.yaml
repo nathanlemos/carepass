@@ -97,17 +97,17 @@ params:
 
   social_media:
     github:
-      enabled: true
-      url: 'https://github.com/nusserstudios'
+      enabled: false
+      url: 'https://github.com/carepass.me'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/carepass.me'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/carepass.me'
     twitter:
       enabled: true
-      url: '@nusserstudios'
+      url: '@carepassme'
     
 
 menu:
