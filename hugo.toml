@@ -1,0 +1,4 @@
+baseURL = 'https://carepass.me/'
+languageCode = 'pt-BR'
+title = 'Care Pass'
+theme = 'tailbliss'
