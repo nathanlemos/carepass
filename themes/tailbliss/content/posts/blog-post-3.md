@@ -1,246 +1,37 @@
 ---
-title: "Blog Post 3"
-date: 2021-12-18T11:10:36+08:00
+title: "Alimentação Consciente"
+date: 2022-04-18T11:10:36+08:00
 draft: false
 language: pt-BR
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+featured_image: ../assets/images/posts/post3.jpg
+summary: Explore as conexões entre alimentação e beleza, fornecendo orientações sobre escolhas alimentares que não apenas aprimoram a saúde, mas também promovem uma pele radiante e um corpo equilibrado.
+description: Explore as conexões entre alimentação e beleza, fornecendo orientações sobre escolhas alimentares que não apenas aprimoram a saúde, mas também promovem uma pele radiante e um corpo equilibrado.
 author: Nathan Reis
 authorimage: ../assets/images/global/author.jpeg
-categories: blog
-tags: blog
+categories: Blog
+tags: Blog
 ---
 
-**Advertisement :smile:**
+## Alimentação Consciente: Como Escolher Alimentos que Nutrem sua Beleza Interior
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
+Uma alimentação consciente vai além de apenas satisfazer a fome; é um compromisso com o bem-estar integral, refletindo não apenas na saúde do corpo, mas também na beleza interior. Optar por alimentos que nutrem tanto o corpo quanto a mente é essencial para alcançar uma aparência radiante e saudável.
 
-You will like those projects!
+Iniciar uma jornada de alimentação consciente envolve escolher alimentos frescos e não processados. Frutas, vegetais, grãos integrais e proteínas magras são pilares de uma dieta que promove a vitalidade. Esses alimentos fornecem nutrientes essenciais, como vitaminas, minerais e antioxidantes, que desempenham um papel fundamental na saúde da pele e no fortalecimento do sistema imunológico.
 
----
+![Imagem](https://img.freepik.com/free-photo/top-view-assortment-vegetables-paper-bag_23-2148853335.jpg?w=1380&t=st=1706618826~exp=1706619426~hmac=13ea1ac4a06afd1f2ece404c0777ada67f7db9992b2c5b013ea19fdd97eee489)
 
-# h1 Heading :blush:
+Ao abraçar a diversidade nutricional, você proporciona ao seu corpo uma ampla gama de benefícios. Por exemplo, alimentos ricos em ácidos graxos ômega-3, como peixes, nozes e sementes de chia, não apenas promovem uma pele saudável, mas também apoiam a saúde cerebral. Da mesma forma, alimentos ricos em antioxidantes, como bagas e vegetais de folhas verdes, combatem os radicais livres, contribuindo para um envelhecimento saudável e uma aparência vibrante.
 
-## h2 Heading
+A escolha consciente de alimentos também envolve prestar atenção às necessidades individuais do seu corpo. Algumas pessoas podem se beneficiar de uma dieta mais rica em proteínas, enquanto outras encontram equilíbrio em uma dieta predominantemente vegetariana. O importante é ouvir seu corpo e adaptar sua alimentação de acordo.
 
-### h3 Heading
+Além disso, a hidratação desempenha um papel crucial na manutenção da beleza interior. A água não apenas mantém a pele hidratada, mas também auxilia na digestão e eliminação de toxinas, contribuindo para uma tez clara e radiante. Experimente adicionar infusões de ervas ou água com limão para dar um toque de sabor e aumentar ainda mais os benefícios.
 
-#### h4 Heading
+Ao adotar práticas como mastigação consciente e refeições sem distrações, você se conecta mais plenamente com a experiência de comer, permitindo que seu corpo reconheça os sinais de saciedade. Isso não apenas promove uma digestão saudável, mas também ajuda a evitar o excesso de comida, contribuindo para o controle de peso e uma sensação geral de bem-estar.
 
-##### h5 Heading
+![Imagem](https://img.freepik.com/free-photo/closeup-athletic-woman-adding-strawberries-while-making-fruit-salad-kitchen_637285-6186.jpg?w=1380&t=st=1706618866~exp=1706619466~hmac=f5b43dd468eea7dfcce077c2e53c91944db6b2f013890cb7a4d494cd31ca4c36)
 
-###### h6 Heading
-
-## Horizontal Rules
+Lembre-se, a alimentação consciente é uma jornada, não um destino. Permita-se desfrutar de indulgências ocasionais sem culpa, sabendo que o equilíbrio é a chave para uma relação saudável com a comida. Ao fazer escolhas alimentares conscientes, você não apenas nutre seu corpo, mas também cultiva uma beleza interior que se reflete em uma aparência radiante e cheia de vitalidade.
 
 ---
 
----
-
----
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,, -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-: Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-_here be dragons_
-:::
+Confira mais dicas na nossa sessão de postagens e em nosso Instagram!

@@ -1,246 +1,35 @@
 ---
-title: "Blog Post 5"
-date: 2021-12-18T11:10:36+08:00
+title: "Dicas de Autocuidado para Dias Agitados"
+date: 2022-04-18T11:10:36+08:00
 draft: false
 language: pt-BR
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+featured_image: ../assets/images/posts/post5.jpg
+summary: Em um mundo movimentado, ofereceremos estratégias práticas de autocuidado para integrar à sua rotina diária, garantindo que mesmo nos dias mais corridos, você reserve um tempo para cuidar de si mesmo.
+description: Em um mundo movimentado, ofereceremos estratégias práticas de autocuidado para integrar à sua rotina diária, garantindo que mesmo nos dias mais corridos, você reserve um tempo para cuidar de si mesmo.
 author: Nathan Reis
 authorimage: ../assets/images/global/author.jpeg
-categories: blog
-tags: blog
+categories: Blog
+tags: Blog
 ---
 
-**Advertisement :smile:**
+## Dicas de Autocuidado para Dias Agitados: Mantendo-se Equilibrado no Caos
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
+Em meio à agitação da vida cotidiana, encontrar momentos para o autocuidado torna-se um ato essencial de amor próprio. Mesmo nos dias mais tumultuados, priorizar seu bem-estar é crucial para manter um equilíbrio mental e físico. Aqui estão algumas dicas práticas para incorporar o autocuidado, mesmo nos dias mais agitados.
 
-You will like those projects!
+1. **Rituais Matinais Calmantes:** Reserve alguns minutos pela manhã para estabelecer um ritual tranquilo. Seja um breve alongamento, meditação ou simplesmente saborear uma xícara de chá, iniciar o dia com calma estabelece uma base positiva para enfrentar os desafios que podem surgir.
 
----
+2. **Micro Pausas Revigorantes:** Mesmo em dias corridos, encontre momentos para pausas curtas. Respirações profundas, pequenos alongamentos ou uma rápida caminhada podem revigorar sua mente e impedir que o estresse se acumule.
 
-# h1 Heading :blush:
+3. **Alimentação Consciente:** Em vez de ceder à tentação de refeições rápidas e pouco saudáveis, opte por alimentos que nutram seu corpo. Planeje refeições equilibradas, incluindo alimentos ricos em nutrientes que sustentem sua energia ao longo do dia.
 
-## h2 Heading
+4. **Agenda com Espaço para Respirar:** Evite superlotar sua agenda. Deixe espaço entre compromissos para evitar a sensação de estar constantemente correndo contra o relógio. Isso permite uma transição mais suave de uma tarefa para a próxima.
 
-### h3 Heading
+5. **Pequenos Gestos de Carinho:** Mime-se com pequenos gestos de carinho. Pode ser acender uma vela perfumada, tomar um banho relaxante ou simplesmente ler algumas páginas de um livro. Esses momentos podem fazer maravilhas para aliviar a tensão.
 
-#### h4 Heading
+6. **Sono Reparador:** Em noites atribuladas, priorize a qualidade do sono. Desconecte-se de dispositivos eletrônicos antes de dormir, crie um ambiente propício ao descanso e estabeleça uma rotina relaxante para garantir uma noite de sono reparador.
 
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
+Lembrando que o autocuidado não é um luxo, mas uma necessidade. Ao incorporar essas dicas simples em sua rotina diária, você está investindo em sua saúde física e mental, criando uma base sólida para enfrentar os desafios com equilíbrio e resiliência.
 
 ---
 
----
-
----
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,, -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-: Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-_here be dragons_
-:::
+Confira mais dicas na nossa sessão de postagens e em nosso Instagram!

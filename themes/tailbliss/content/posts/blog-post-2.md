@@ -1,246 +1,29 @@
 ---
-title: "Blog Post 2"
-date: 2021-12-18T11:10:36+08:00
+title: "Rotinas de Exercícios para uma Beleza Ativa"
+date: 2022-04-18T11:10:36+08:00
 draft: false
 language: pt-BR
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+featured_image: ../assets/images/posts/post2.jpg
+summary: Descubra rotinas de exercícios personalizadas que vão além do convencional, oferecendo uma abordagem divertida e eficaz para manter um estilo de vida ativo e vibrante.
+description: Descubra rotinas de exercícios personalizadas que vão além do convencional, oferecendo uma abordagem divertida e eficaz para manter um estilo de vida ativo e vibrante.
 author: Nathan Reis
 authorimage: ../assets/images/global/author.jpeg
-categories: blog
-tags: blog
+categories: Blog
+tags: Blog
 ---
 
-**Advertisement :smile:**
+## Rotinas de Exercícios para uma Beleza Ativa: Dicas para Manter-se em Forma com Diversão
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
+Manter-se em forma não precisa ser uma tarefa árdua e monótona. Na busca por uma beleza ativa, é fundamental incorporar exercícios que não apenas fortaleçam o corpo, mas também proporcionem diversão e motivação. Uma excelente opção são os treinos intervalados de alta intensidade (HIIT), que oferecem benefícios expressivos em um curto espaço de tempo. Esses exercícios, alternando entre momentos de intensidade máxima e descanso, não apenas queimam calorias eficientemente, mas também mantêm a diversidade na sua rotina.
 
-You will like those projects!
+Além disso, considere atividades que estimulem a mente e o corpo simultaneamente, como aulas de dança ou ioga. Dançar não apenas queima calorias, mas também é uma forma envolvente de expressar sua personalidade enquanto se movimenta. A ioga, por sua vez, não só fortalece e tonifica, mas também promove a conexão mente-corpo, contribuindo para uma beleza que se origina de uma fonte interna de equilíbrio.
 
----
+Incorporar exercícios ao ar livre é outra maneira de tornar sua jornada de fitness mais agradável. Correr, caminhar ou fazer trilhas não apenas proporcionam benefícios cardiovasculares, mas também permitem que você aproveite a natureza enquanto se exercita. Lembre-se de que a chave para uma beleza ativa é escolher atividades que você realmente goste, pois a consistência é a chave para o sucesso.
 
-# h1 Heading :blush:
+![Imagem](https://img.freepik.com/free-photo/full-shot-man-holding-device_23-2149249472.jpg?w=740&t=st=1706618352~exp=1706618952~hmac=8b4f1447b06f0a67503377270b9940340afbff0fc809a6e14a7726b873154d77)
 
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
+Para manter a motivação, envolva-se em comunidades de fitness online ou encontre um parceiro de treino. Compartilhar metas e conquistas torna a jornada mais divertida e proporciona um apoio valioso. Ao abraçar a diversão em sua rotina de exercícios, você não apenas mantém seu corpo em forma, mas também cultiva uma atitude positiva em relação ao fitness, promovendo uma beleza que irradia vitalidade de dentro para fora.
 
 ---
 
----
-
----
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,, -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-: Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-_here be dragons_
-:::
+Confira mais dicas na nossa sessão de postagens e em nosso Instagram!
