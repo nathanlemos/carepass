@@ -1,0 +1,25 @@
+---
+title: "TITLE"
+date: 2022-04-18T11:10:36+08:00
+draft: false
+language: pt-BR
+featured_image: ../assets/images/posts/post1.jpg
+summary: DESCRIPTION
+description: DESCRIPTION
+author: Nathan Reis
+authorimage: ../assets/images/global/author.jpeg
+categories: Blog
+tags: Blog
+---
+
+## TITLE: SUBTITLE
+
+TEXT_PART_1
+
+![Imagem](IMAGE)
+
+TEXT_PART_2
+
+---
+
+Confira mais dicas na nossa sessão de postagens e em nosso Instagram!
